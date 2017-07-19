@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6E66A7E2-4C17-5963-65F9-A656ABAE90B0}") = "UI test", "Assembly-CSharp.csproj", "{B6087AC1-C298-4DE5-9B1C-5AACEDF09611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6087AC1-C298-4DE5-9B1C-5AACEDF09611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6087AC1-C298-4DE5-9B1C-5AACEDF09611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6087AC1-C298-4DE5-9B1C-5AACEDF09611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6087AC1-C298-4DE5-9B1C-5AACEDF09611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
